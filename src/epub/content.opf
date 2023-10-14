@@ -26,8 +26,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">The Rector and the Doctor’s Family</dc:title>
-		<meta property="file-as" refines="#title">Rector and the Doctor’s Family, The</meta>
+		<dc:title id="title">The Rector and The Doctor’s Family</dc:title>
+		<meta property="file-as" refines="#title">Rector and The Doctor’s Family, The</meta>
 		<dc:subject id="subject-1">Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85048050</meta>
