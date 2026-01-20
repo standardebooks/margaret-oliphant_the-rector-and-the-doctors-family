@@ -47,7 +47,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/29890</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/29891</dc:source>
 		<dc:source>https://books.google.com/books?id=lhgGAAAAQAAJ</dc:source>
-		<meta property="se:word-count">66973</meta>
+		<meta property="se:word-count">65978</meta>
 		<meta property="se:reading-ease.flesch">68.81</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/margaret-oliphant_the-rector-and-the-doctors-family</meta>
 		<dc:creator id="author">Margaret Oliphant</dc:creator>
