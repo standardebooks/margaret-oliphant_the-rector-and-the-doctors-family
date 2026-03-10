@@ -2,11 +2,13 @@
 <se-lint-ignore>
 	<file path="colophon.xhtml">
 		<ignore code="t-064">
+			<line>14</line>
 			<reason>Unique titlecase is correct for two-books-in-one amalgamated edition.</reason>
 		</ignore>
 	</file>
 	<file path="titlepage.xhtml">
 		<ignore code="s-023">
+			<line>10</line>
 			<reason>Unique titlecase is correct for two-books-in-one amalgamated edition.</reason>
 		</ignore>
 	</file>
